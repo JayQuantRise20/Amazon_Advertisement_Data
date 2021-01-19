@@ -15,6 +15,7 @@ The Campaigns are divided to two parts:
 
 - Automatic Campaigns
 - Manual Camaigns
+
 In Automatic Campaign Amazon finds the terms that customers search in their platform and list them in each row. In Manual one, the seller finds his own favourite terms and ask Amazon to advertise for him.
 
 ### Libraries
